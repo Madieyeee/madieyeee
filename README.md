@@ -1,5 +1,5 @@
 # 💫 About Me:
-‹/› Hello everyone 👋🏽 My name is Madieye.<br>As a second year software engineering student, I am passionate about programming and software development. I have a strong grasp of HTML, CSS, Bootstrap JS, PHP and C, and have recently started learning Python and C++. Outside of coding, I enjoy bodybuilding (😌 yes) and exploring. I'm excited to connect with other developers.
+‹/› Hello everyone 👋🏽.<br>I'm a second year software engineering student, I am passionate about programming and software development. I have a strong grasp of JS, PHP and C, and have recently started learning Python and C++. Outside of coding, I exploring😌
 
 
 ## 🌐 Socials:
