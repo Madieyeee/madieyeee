@@ -1,5 +1,5 @@
 # 💫 About Me:
-‹/› Hello everyone 👋🏽.<br>I'm a second year software engineering student, I am passionate about programming and software development. I have a strong grasp of JS, PHP and C, and have recently started learning Python and C++. Outside of coding, I exploring😌
+‹/› Hello everyone 👋🏽.<br>I'm a second year software engineering student, I am passionate about programming and software development. I have a strong grasp of JS, PHP and C, and have recently started learning Java and C++. Outside of coding, I love exploring😌
 
 
 ## 🌐 Socials:
